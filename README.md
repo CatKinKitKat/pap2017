@@ -7,3 +7,7 @@ Projecto de aptidão profissional (PAP) é um projecto que visa a aplicação do
 Este projecto individual tem como objectivo a resolução de um problema real: a gestão das refeições e utentes do Instituto dos Pupilos do Exército (IPE).
 
 Consistiu numa aplicação em WPF que permite a gestão de refeições e utentes, e uma maquina construida à base de um Arduino que permite a leitura e registo de dados de um cartão RFID.
+
+## Ilustração
+
+![Ilustração](Capturar.PNG)
